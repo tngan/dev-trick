@@ -6,3 +6,4 @@
 
 - [Docker development workflow: Node, Express, Mongo](https://medium.com/@sunnykay/docker-development-workflow-node-express-mongo-4bb3b1f7eb1e#.jrtiq6x18)
 - [Efficient development workflow using Git submodules and Docker Compose](https://www.airpair.com/docker/posts/efficiant-development-workfow-using-git-submodules-and-docker-compose)
+- [Running MongoDB as a Microservice with Docker and Kubernetes](https://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)
